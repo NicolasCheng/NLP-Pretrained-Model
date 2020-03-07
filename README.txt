@@ -4,3 +4,4 @@ Transformer
 ELMo
 Bert
 GPT/GPT-2
+XLNet
